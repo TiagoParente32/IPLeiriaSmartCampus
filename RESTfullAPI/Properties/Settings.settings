@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RESTfullAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=73e9386b-666d-4a02-9ab7-ab25013619de.sqlserver.sequelizer.com;Initial Catalog=db73e9386b666d4a029ab7ab25013619de;Persist Security Info=True;User ID=borstcedtdeysfcs;Password=ePBzanr6UYbQDAFJNRJMHMwhj6Fymhnxzh7cWR7ZrS55eCLsJGr8LAhystqcP2SM&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=73e9386b-666d-4a02-9ab7-ab25013619de.sqlserver.sequelizer.com;Initial Catalog=db73e9386b666d4a029ab7ab25013619de;Persist Security Info=True;User ID=borstcedtdeysfcs;Password=ePBzanr6UYbQDAFJNRJMHMwhj6Fymhnxzh7cWR7ZrS55eCLsJGr8LAhystqcP2SM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
